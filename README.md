@@ -3,9 +3,9 @@
 # Немного обо мне:
 Моей основной деятельностью является:
 - ⚡️Тестирование веб-приложений
-- 🔥Тестирование API
+- 🔍️Тестирование API
 - 🚀Тестирование мобильных приложений (iOS/Android)
-- ✨Java (базовые навыки)
+- 🧑‍💻Java (базовые навыки)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LESpNIDaNBUcRIPzng/giphy.gif" width="120"/>
